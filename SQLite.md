@@ -2,7 +2,7 @@
 
 <hr>
 
-### What is SQLite Database?
+### What is SQLite Database? 
 SQLite is a popular open-source relational database management system (RDBMS) that is widely used in applications that require a local data store. It is a software library that provides a lightweight disk-based database that doesn't require a separate server process and allows for self-contained, zero-configuration installation.
 
 SQLite is ACID-compliant, which means that it guarantees the reliability and consistency of data even in the presence of hardware or software failures. It supports a wide range of standard SQL features, including transactions, indexes, views, triggers, and stored procedures, making it a powerful tool for managing and querying data.
