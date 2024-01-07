@@ -35,6 +35,9 @@ https://www.onlinegdb.com/
 **Seaborn Full Tutorial Link:** https://seaborn.pydata.org/examples/grouped_violinplots.html<br>
 **Python Official Site Link:** https://docs.python.org/<br>
 
+**9 Different Distance Measure Techniques:**	https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa
+**Elite Data Science Tutorial:**	https://elitedatascience.com/primer
+
 **HTML Color Codes:**<br>
 https://htmlcolorcodes.com/
 
