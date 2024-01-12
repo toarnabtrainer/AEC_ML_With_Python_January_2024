@@ -50,7 +50,7 @@ https://drive.google.com/drive/folders/15ho9XljDUk0X6OHawuQHX5uuzS4XAuut?usp=sha
 <hr>
 
 * **Link for Project Group Formation Form:** https://bit.ly/3JCZdCx
-
+* **Test on Machine Learning:**	https://bit.ly/2ZJeb1z
 <hr>
 
 ### Features of Python
