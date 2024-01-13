@@ -37,7 +37,7 @@ https://www.onlinegdb.com/
 
 **9 Different Distance Measure Techniques:**	https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa <br>
 **Elite Data Science Tutorial:**	https://elitedatascience.com/primer <br>
-**Hierarchical clustering explained:** https://towardsdatascience.com/hierarchical-clustering-explained-e59b13846da8
+**Hierarchical Clustering Explained:** https://towardsdatascience.com/hierarchical-clustering-explained-e59b13846da8
 
 **HTML Color Codes:**<br>
 https://htmlcolorcodes.com/
